@@ -36,8 +36,8 @@ substitutions:
 
 packages:
   bslamp2:
-    url: https://github.com/mmakaay/esphome-xiaomi_bslamp2
-    ref: dev
+    url: https://github.com/denisys16/esphome-xiaomi_bslamp2
+    ref: test_new_feature
     files:
       - packages/core.yaml
       - packages/behavior_default.yaml
